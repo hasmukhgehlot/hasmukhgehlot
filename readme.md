@@ -5,8 +5,10 @@
 
 Hello World 👋
 
-I’m Hasmukh, a full-stack software developer, creative coder, teacher and a design enthusiast. I have been coding since the age of 15 from basic html websites to advanced level web projects that include ecommerce portals and hybrid app development using react, ionic and flask. 
+👋 Hi there! I'm Hasmukh Gehlot, a seasoned full stack developer passionate about crafting intuitive and engaging experiences. My journey began with HTML, CSS, and JavaScript, evolving into expertise with React, Next.js, Flask, and more. I specialize in developing efficient solutions that prioritize simplicity for smoother user experiences.
 
-I like to explore problems and find simple solutions to make it easier for people to learn even the complex concepts. SIMPLICITY is what i believe in.
+🌟 Recent projects include an offline search portal in React for categorized bookmarks and a custom PHP WordPress plugin for SEO management. I believe in delivering not just products, but impactful experiences tailored to client needs.
+
+💡 Beyond coding, I enjoy mentoring college students and collaborating on projects, particularly in areas like cryptocurrency apps built with Ionic and React. Let's connect and build something awesome together!
 
 <br>
